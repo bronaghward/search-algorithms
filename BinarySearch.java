@@ -29,7 +29,7 @@ return binarySearch(arr, mid + 1, indexRight, targetNumber);
 return -1; 
 }
  
- public static void main(String[] args)
+public static void main(String[] args)
 {
 int[] arr = { 2, 5, 6, 8, 9, 10, 11, 12, 19, 25, 33, 45, 52 };
 int target = 25;
